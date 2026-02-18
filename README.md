@@ -18,7 +18,7 @@ Therefore, I do not consent to having such models being trained on my code.
 
 I've made my choice: I'm out... or at least I would like to be.
 
-![Gen-AI? Nein danke.](https://f.sakamoto.pl/genai-neindanke_v2.svg)   <sup>*(CC0 by [Domi](https://sdomi.pl/), 2024)*</sup>
+![Gen-AI? Nein danke.](https://f.sakamoto.pl/genai-neindanke_v2.png)   <sup>*(CC0 by [Domi](https://sdomi.pl/), 2024)*</sup>
 
 Unfortunately I still need a GitHub account for work-related purposes so I can't delete it outright.
 
